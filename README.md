@@ -1,0 +1,1 @@
+# js-syntax-highlighting-and-anitmated-typing
